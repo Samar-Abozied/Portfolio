@@ -74,6 +74,8 @@ __Jira__
 ### Test cases and work in Excel Sheets
 *Test cases for name field for this website (http://testingchallenges.thetestingmap.org/index.php)
 
-see excel sheet (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
+*see excel sheet here (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
 
+*Test cases for this website(http://demowebshop.tricentis.com/) based on those user stories (https://docs.google.com/document/d/1StYkhY-3Dm24wqzNsukep7mJLmbTLpLdS5D6_XQgczA/edit)
 
+*See[excel sheet] here (https://docs.google.com/spreadsheets/d/1LQKq-7Kw5PamAqyhyKPdnoYN92KCBp_L/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)

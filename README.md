@@ -51,3 +51,7 @@ __SQL databases__
   * understand and able to use all CRUD operations
   * can write complex requests using subqueries
 
+__Java fundamentals__
+  * can write simple functions and algorithms
+  * know when to use for and while
+  * able to comprehend easy codes

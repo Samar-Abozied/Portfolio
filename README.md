@@ -7,7 +7,6 @@ This is my portfolio as a junior software tester
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
@@ -60,9 +59,16 @@ __Java fundamentals__
     ## Tools
 
 __Excel Sheets__
-  * know how to create test cases 
-  * know how to create bug reports
-  * able to  track  bugs progress
+__Postman__
+__TFS__
+__Trello__
+__Jira__
 
-__ Postman__
- 
+
+## Examples of my work
+
+### Test cases and work in Excel Sheets
+*Test cases for name field for this website (http://testingchallenges.thetestingmap.org/index.php)
+see (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
+
+

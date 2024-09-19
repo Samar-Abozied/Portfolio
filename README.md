@@ -59,9 +59,13 @@ __Java fundamentals__
     ## Tools
 
 __Excel Sheets__
+
 __Postman__
+
 __TFS__
+
 __Trello__
+
 __Jira__
 
 
@@ -69,6 +73,7 @@ __Jira__
 
 ### Test cases and work in Excel Sheets
 *Test cases for name field for this website (http://testingchallenges.thetestingmap.org/index.php)
-see (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
+
+see excel sheet (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
 
 

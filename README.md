@@ -84,8 +84,8 @@ __Jira__
 ### Bug reports and work in Excel Sheets
 *Working on this website (http://demowebshop.tricentis.com/)
 
-1) Check this bug report(https://docs.google.com/spreadsheets/d/1UZHkxcD504UqNf9rty3IYLhrvF9uqmyr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
+ 1) Check this bug report(https://docs.google.com/spreadsheets/d/1UZHkxcD504UqNf9rty3IYLhrvF9uqmyr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
    
 *Working on this website(https://serfel.com/)
 
-2) Check this bug report (https://docs.google.com/spreadsheets/d/15n9zThrKR8k-9F2RUcJjrsbzYd25o5jr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
+ 2) Check this bug report (https://docs.google.com/spreadsheets/d/15n9zThrKR8k-9F2RUcJjrsbzYd25o5jr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)

@@ -8,8 +8,7 @@ This is my portfolio as a junior software tester
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  
  
     ## About me
 
@@ -74,8 +73,17 @@ __Jira__
 ### Test cases and work in Excel Sheets
 *Test cases for name field for this website (http://testingchallenges.thetestingmap.org/index.php)
 
-*see excel sheet here (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
+1) see excel sheet here (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
 
-*Test cases for this website(http://demowebshop.tricentis.com/) based on those user stories (https://docs.google.com/document/d/1StYkhY-3Dm24wqzNsukep7mJLmbTLpLdS5D6_XQgczA/edit)
+*Test cases based on those user stories (https://docs.google.com/document/d/1StYkhY-3Dm24wqzNsukep7mJLmbTLpLdS5D6_XQgczA/edit)
 
-*See[excel sheet] here (#https://docs.google.com/spreadsheets/d/1LQKq-7Kw5PamAqyhyKPdnoYN92KCBp_L/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
+2) See excel sheet here (https://docs.google.com/spreadsheets/d/1LQKq-7Kw5PamAqyhyKPdnoYN92KCBp_L/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
+
+
+
+### Bug reports and work in Excel Sheets
+*Working on this website (http://demowebshop.tricentis.com/)
+1) Check this bug report(https://docs.google.com/spreadsheets/d/1UZHkxcD504UqNf9rty3IYLhrvF9uqmyr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
+   
+*Working on this website(https://serfel.com/)
+3) Check this bug report (https://docs.google.com/spreadsheets/d/15n9zThrKR8k-9F2RUcJjrsbzYd25o5jr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)

@@ -55,3 +55,14 @@ __Java fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
+
+
+    ## Tools
+
+__Excel Sheets__
+  * know how to create test cases 
+  * know how to create bug reports
+  * able to  track  bugs progress
+
+__ Postman__
+ 

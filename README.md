@@ -24,3 +24,30 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/15AQtTHOWdpMgE7arHVDiLkDG4CeYsZUc/view?usp=sharing)
+
+## Skills
+
+You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+
+__Manual testing__
+  * can perform manual functional and usability testing of web applications
+  * gained hands-on experience by testing applications created for educational purposes
+
+__Test analysis & design__
+  * familiar with functional decomposition of products, writing use cases
+  * can apply equivalence partitioning, boundary value analysis to generate test input data
+
+__API testing__
+  * gained experience through manual testing of APIs created for educational purposes
+  * know how to manipulate requests and create test cases using the Postman tool
+
+__Exploratory testing__
+* can explore and test the website in case there are no documentations available
+__Test documentation__
+  * can create test cases and checklists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports
+
+__SQL databases__
+  * understand and able to use all CRUD operations
+  * can write complex requests using subqueries
+

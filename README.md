@@ -78,4 +78,4 @@ __Jira__
 
 *Test cases for this website(http://demowebshop.tricentis.com/) based on those user stories (https://docs.google.com/document/d/1StYkhY-3Dm24wqzNsukep7mJLmbTLpLdS5D6_XQgczA/edit)
 
-*See[excel sheet] here (https://docs.google.com/spreadsheets/d/1LQKq-7Kw5PamAqyhyKPdnoYN92KCBp_L/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
+*See[excel sheet] here (#https://docs.google.com/spreadsheets/d/1LQKq-7Kw5PamAqyhyKPdnoYN92KCBp_L/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)

@@ -61,6 +61,10 @@ __Excel Sheets__
 
 __Postman__
 
+__Newman__
+
+__Html-reporter__
+
 __TFS__
 
 __Trello__

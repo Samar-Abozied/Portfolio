@@ -81,12 +81,15 @@ __Balsamic wireframes__
 ## Examples of my work
 
 ### Trello Testing Project
+
 *Applying manual, API, Performance and automation tesing on Trello website
+
 *See all deliveribles and reports here (https://github.com/Samar-Abozied/Trello-Testing-Project)
 
 
 
 ### Test cases and work in Excel Sheets
+
 *Test cases for name field for this website (http://testingchallenges.thetestingmap.org/index.php)
 
 1) See excel sheet here (https://docs.google.com/spreadsheets/d/19K4TLm0jEhagTE_Td-NjlKWO_pmyONXi/edit?usp=sharing&ouid=107483995017004941160&rtpof=true&sd=true)
@@ -98,6 +101,7 @@ __Balsamic wireframes__
 
 
 ### Bug reports and work in Excel Sheets
+
 *Working on this website (http://demowebshop.tricentis.com/)
 
  1) Check this bug report(https://docs.google.com/spreadsheets/d/1UZHkxcD504UqNf9rty3IYLhrvF9uqmyr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
@@ -107,6 +111,7 @@ __Balsamic wireframes__
  2) Check this bug report (https://docs.google.com/spreadsheets/d/15n9zThrKR8k-9F2RUcJjrsbzYd25o5jr/edit?usp=sharing&ouid=114112546984051114943&rtpof=true&sd=true)
 
 ### Wireframe for a website (https://serfel.com/)
+
 *Check this link (https://drive.google.com/file/d/1-INZHclmfJPPRyCBhy1zhFu-AMgsv9Fk/view?usp=sharing)
 
 *This one for mobile (https://drive.google.com/file/d/1vVo2gpjRzGuwIErxInFEy8vwSCRQfTW_/view?usp=sharing)

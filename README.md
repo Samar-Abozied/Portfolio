@@ -21,7 +21,7 @@ I got my Bachelor's degree from faculty of Engineering at Alazhar university. My
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1HyRO215Yha7xmWnlN1nufcbxKBL2dgt8/view?usp=drive_link)
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/folders/1EKnE-_bNQpUsAn8H9uMtLWcqSU9kC5QD?usp=sharing)
 
 ## Skills
 
